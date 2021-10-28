@@ -1,0 +1,33 @@
+{
+   "status": "success",
+   "data":    {
+      "city": "Carlton",
+      "state": "Victoria",
+      "country": "Australia",
+      "location":       {
+         "type": "Point",
+         "coordinates":          [
+            144.97,
+            -37.8073959
+         ]
+      },
+      "current":       {
+         "weather":          {
+            "ts": "2020-07-02T07:00:00.000Z",
+            "tp": 12,
+            "pr": 1013,
+            "hu": 58,
+            "ws": 3.6,
+            "wd": 350,
+            "ic": "03d"
+         },
+         "pollution":          {
+            "ts": "2020-07-02T06:00:00.000Z",
+            "aqius": 12,
+            "mainus": "p2",
+            "aqicn": 4,
+            "maincn": "p2"
+         }
+      }
+   }
+}
